@@ -167,3 +167,6 @@ console.log(highestGrade(grades1));
 console.log(highestGrade(grades2));
 
 console.log(highestGrade(grades3));
+
+
+//voor degene die nakijkt; helaas ben ik niet meer aan de methodes toe gekomen dus zal ik later nog maken en met de uitwerkingen checken :) Thanks voor het nakijken!
